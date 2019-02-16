@@ -8,3 +8,5 @@ done < $1
 cat cek | sort -nr | uniq;
 
 rm -rf cek;
+
+#support-by-Yudha
